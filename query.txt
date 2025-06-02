@@ -1,0 +1,32 @@
+1  12 10000010
+3-D printing system
+
+2  87 10000088	
+ink cartridge for writing instrument
+
+3  97 10000098	
+device to measure tire pressure
+
+4  263 10000265	
+underwater vehicle
+
+5  327 10000329	
+thermally insulated container
+
+6  336 10000338	
+automated warehouse storage system
+
+7  497 10000503	
+power supply wire
+
+8  438 10000443	
+glucose deprivation in cancer treatment
+
+9  16 10000016	
+heat sealing machine
+
+10 224 10000226	
+infant stroller
+
+11 295 10000297	
+Aircraft display systems
